@@ -109,8 +109,6 @@ def main():
     som_trainer.set_weights(summed_array)
     som_trainer.save("ABK - WEIGHTED SUM CURVATURE.gpickle")
 
-    pdb.set_trace()  # Debugging point to inspect loaded graphs
-
 if __name__ == "__main__":
     main()
 
