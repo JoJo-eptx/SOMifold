@@ -1,7 +1,7 @@
 import numpy as np
 import networkx as nx
-from SOM.HexagonalGraph import HexagonalGraph
-from SOM.SelfOrganizingMap import SelfOrganizingMap
+from HexSOM import HexagonalGraph
+from HexSOM import SelfOrganizingMap
 
 def create_hexagonal_grid(grid_size: int):
     grid_generator = HexagonalGraph(
