@@ -67,4 +67,4 @@ Road segments are treated as paths through a latent risk field. By integrating r
 ## 📌 Citation
 
 If you use this method in academic or policy work, please cite the original SOMifold research or acknowledge this framework in your materials.
-Castro II, Joel Gerardo. High Injury Network Mapping using Geometry-Aware Self-Organizing Maps. 2025.
+- Castro II, Joel Gerardo. High Injury Network Mapping using Geometry-Aware Self-Organizing Maps. 2025.
